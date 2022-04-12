@@ -1,0 +1,13 @@
+
+.navbar {
+    background-color: slategray;
+} 
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+.quem-somos {
+    background-color: black;
+}
+.color1 {
+    color: antiquewhite;
+}
